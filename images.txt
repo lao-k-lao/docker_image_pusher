@@ -6,5 +6,9 @@ mysql:5.7
 redis:6.2.6-alpine
 rabbitmq:3.8-alpine
 mongo:5.0.5
+registry.cn-beijing.aliyuncs.com/dc3/dc3-mysql:2024.3.2.dev
+registry.cn-beijing.aliyuncs.com/dc3/dc3-mongo:2024.3.2.dev
+registry.cn-beijing.aliyuncs.com/dc3/dc3-redis:2024.3.2.dev
+registry.cn-beijing.aliyuncs.com/dc3/dc3-rabbitmq:2024.3.2.dev
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

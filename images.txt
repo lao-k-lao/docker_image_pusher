@@ -5,6 +5,7 @@ xhofe/alist:latest
 mysql:8.0.41
 rabbitmq:3.8-alpine
 mongo:5.0.5
+redis:7.2.0
 apache/rocketmq:5.3.2
 apacherocketmq/rocketmq-dashboard:latest
 #支持指定架构
